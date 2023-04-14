@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blockchain.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "TypeScript",
+    "decentralized"
+  ],
+  "author": "Nicolas Hovart",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
